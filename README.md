@@ -71,7 +71,34 @@ I drive **technical vision**, strategy, and product design, while mentoring engi
 
 ## 🏆 Awards
 - Received Technical Scholarship — RUET  
-- Most Valuable SELISIAN — Management Excellence Award  
+- Most Valuable SELISIAN (2021)
+- Management Excellence Award (2022) 
 
 ---
+
+## 🤝 Volunteer Experience
+
+**Judge & Contest Director** — *SELISE Coding Challenge 2020 & 2023*  
+- Directed online programming contests for university students to solve complex algorithmic problems.
+- Oversaw problem-setting by a team of SELISE developers.
+- **Participation:** 1650+ coders in 2020, 1900+ coders in 2023.
+
+**Lead Technical System Volunteer** — *National Collegiate Programming Contest (NCPC), RUET 2015*  
+- Managed technical setup for the national-level programming contest.
+- Organized by the Dept. of CSE, RUET in association with Bangladesh Computer Council (BCC).
+
+**Lead Technical System Volunteer** — *RoboTour & Programming Contest (IEEE RUET), Mar 2015*  
+- Managed programming contest environment setup for national event.
+- Supported and granted by The American Center, U.S. Embassy, Dhaka.
+
+**President** — *DNS, RUET (2013–2015)*  
+- Led a non-political organization of RUET students from Dhaka.
+- Organized fresher receptions, farewells, games, tours, and maintained a rental library for students.
+
+**Mentor** — *RUET Programmer’s Association (RPA), 2011–2015*  
+- Mentored students in competitive programming at RUET CSE.
+
+**BNCC Cadet** — *Bangladesh National Cadet Corps (Air Force Wing), 2007–2010*  
+- Served as Orderly Officer (2009) and Junior Commander.
+- Participated in flag-bearing and leadership roles in school and college.
 
