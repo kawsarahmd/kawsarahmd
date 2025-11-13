@@ -20,10 +20,10 @@ I drive **technical vision**, strategy, and product design, while mentoring engi
 
 ## 🛠 Skills & Expertise
 - **Leadership & Management:** Technical Leadership, Project Management, Technical Architecture
-- **Programming:** C#, Python, JavaScript, SQL
-- **Frameworks & Tools:** .NET, Angular, Azure, AWS
+- **Programming:** C#, Python, JavaScript
+- **Frameworks & Tools:** .NET, Angular, FastAPI
 - **Cloud & DevOps:** Azure Solutions Architecture, AWS, CI/CD, Docker, Kubernetes
-- **Specialties:** Microservices, R&D in GenAI/LLM, Payment Systems, Scalable API Design
+- **Specialties:** R&D in GenAI/LLM, Microservices, Scalable Web Application Design
 
 ---
 
@@ -55,7 +55,7 @@ I drive **technical vision**, strategy, and product design, while mentoring engi
 ---
 
 ## 🎓 Education
-- **Master of Science in Engineering** — Information and Communication Technology, BUET (2025)  
+- **Master of Science in Information & Communication Technology** — BUET (2025)  
 - **Bachelor of Science in Computer Science & Engineering** — RUET (2016)
 
 ---
@@ -71,8 +71,8 @@ I drive **technical vision**, strategy, and product design, while mentoring engi
 
 ## 🏆 Awards
 - Received Technical Scholarship — RUET  
-- Most Valuable SELISIAN (2021)
-- Management Excellence Award (2022) 
+- Most Valuable SELISIAN (2021) - SELISE
+- Management Excellence Award (2022) - SELISE
 
 ---
 
